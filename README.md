@@ -101,3 +101,9 @@ Learned scalable training, checkpointing, and inference workflows for CV tasks.
 Improved ability to process and augment image data for neural network input.
 
 <b>⚠️ Note:</b> This is a research/portfolio project. For production use, you may want to include more advanced architectures, handle edge cases, and ensure robustness.
+
+
+### 👤 Author
+[**Kazi Umar**](https://github.com/UK183)<br>
+Linkedin profile: https://www.linkedin.com/in/umar-kazi18  
+💼 Data Analyst | ML Engineer | Data Science & AI Enthusiast | Power BI | Python | SQL

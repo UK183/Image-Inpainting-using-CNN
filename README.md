@@ -1,4 +1,10 @@
 <h1>🎨 Image Inpainting using CNN</h1>
+<div align="center">
+  <img src="output.PNG" width="80%"/>
+</div>
+<div align="center">
+  <b>** Images used are from celeba_hq dataset</b>
+</div><br>
 
 A deep learning project applying convolutional neural networks (CNNs) to perform image inpainting — restoring missing or corrupted regions in images. This project demonstrates skills in computer vision, neural network design, and image processing pipeline development.
 
